@@ -1,8 +1,6 @@
 <div align="center">
 
-# ☢️ RUDRA B. JOSHI 🚀
-
-### `// MISSION CONTROL: ONLINE //`
+<img src="assets/banner.svg" alt="Rudra B. Joshi: nuclear systems, space, code" width="100%"/>
 
 **Independent Nuclear Systems Researcher · Full-Stack Developer · Professional Wanderer of Ideas**
 
@@ -12,7 +10,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🛰️ TRANSMISSION RECEIVED
 
@@ -30,7 +28,7 @@
 
 Hey, I'm **Rudra**. I study nuclear systems, build things on the web, and write about whatever my wandering mind drifts into. If it involves splitting atoms, launching things, or shipping clean code, I'm probably already in the blast radius.
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## ⚛️ RESEARCH BAY
 
@@ -42,7 +40,7 @@ I run **Monte Carlo neutron transport** simulations and model things with **IRT 
 | **Scientific Python** | Number crunching, analysis, and plots |
 | **IRT / ML modeling** | Turning data into predictions that (mostly) behave |
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🛠️ ENGINEERING DECK
 
@@ -63,7 +61,7 @@ I run **Monte Carlo neutron transport** simulations and model things with **IRT 
 ![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🌌 ACTIVE MISSIONS
 
@@ -73,7 +71,7 @@ I run **Monte Carlo neutron transport** simulations and model things with **IRT 
 
 > 🔧 *Add repo links here once you're ready to put these on the launchpad.*
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 📡 DEEP SPACE COMMS
 
@@ -82,7 +80,7 @@ I run **Monte Carlo neutron transport** simulations and model things with **IRT 
 | 📝 **Blog** | [inside-a-wandering-mind.com](https://inside-a-wandering-mind.com) |
 | 🐙 **GitHub** | [@RudraBJoshi](https://github.com/RudraBJoshi) |
 
----
+<img src="assets/divider.svg" alt="" width="100%"/>
 
 ## 🧭 MISSION PROTOCOLS
 
