@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rudra B. Joshi: nuclear systems, space, code" width="100%"/>
+<img src="banner.svg" alt="Rudra B. Joshi: nuclear systems, space, code" width="100%"/>
 
 **Independent Nuclear Systems Researcher · Full-Stack Developer · Professional Wanderer of Ideas**
 
